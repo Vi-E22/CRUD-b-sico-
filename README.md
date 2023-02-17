@@ -1,2 +1,2 @@
 # CRUD
-CRUD básico para cadastro de usuários, criado utilizando Nest.JS em TyperScript
+CRUD básico para cadastro de usuários, criado utilizando Nest.JS
